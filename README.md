@@ -8,7 +8,8 @@ My Goals
 
 Full-Time Learning: I’m dedicating myself to a self-structured learning path, focusing on essential skills like programming (Python, SQL), statistics, mathematics, and data visualization.
 
-Weekly Blog Posts: To hold myself accountable and maintain a record of my progress, I'll be posting a short blog entry every week documenting what I have learned.
+Weekly Blog Posts: To hold myself accountable and maintain a record of my progress, I'll be posting a short blog entry every week documenting what I have learned. 
+
 My Blog: https://lenshow-coder.github.io/
 <!--
 **Lenshow-coder/Lenshow-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
