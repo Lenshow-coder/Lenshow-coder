@@ -1,5 +1,3 @@
-Welcome to My Data Science Journey!
-
 About Me
 
 I have officially made the ambitious decision to fully commit to learning Data Science. After discovering my passion for data while working as a Trader, I decided to quit my job to pursue Data Science full-time.
